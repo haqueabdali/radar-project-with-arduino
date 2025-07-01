@@ -3,8 +3,6 @@
 [![PlatformIO CI](https://github.com/haqueabdali/radar-project-with-arduino/actions/workflows/pio.yml/badge.svg)](https://github.com/haqueabdali/radar-project-with-arduino/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![System Diagram]
-
 An IoT-enabled radar system that detects objects, visualizes spatial data in real-time, and sends alerts. Built with ESP32, MQTT, and Grafana.
 
 ## Features
@@ -68,8 +66,6 @@ node-red
 ```
 ## Dashboard Visualization
 Access Grafana at `http://localhost:3000` and import the dashboard from [cloud/grafana-dashboard.json](cloud/grafana-dashboard.json)
-
-![Dashboard Preview](docs/dashboard-preview.png)
 
 ## Project Structure
 ```
