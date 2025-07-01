@@ -1,8 +1,5 @@
 # IoT Radar System - Object Detection & Monitoring
 
-[![PlatformIO CI]](https://github.com/haqueabdali/radar-project-with-arduino/actions)
-[![License: MIT]](https://opensource.org/licenses/MIT)
-
 An IoT-enabled radar system that detects objects, visualizes spatial data in real-time, and sends alerts. Built with ESP32, MQTT, and Grafana.
 
 ## Features
